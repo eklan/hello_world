@@ -1,4 +1,4 @@
-*Hello Git
+# Hello Git
 
-1 aaa
-2 bbb
+1. aaa
+2. bbb
